@@ -266,7 +266,7 @@ repeat them here. You can also click the links above next to each shape
 to take you directly to the docs for that shape.
 
 There is one other pair of classes that doesn't really fit the patterns above. Those are
-the `PointsMaterial` and the `Points` class. `Points` is like `LineSegments` above in that it takes a
+the `PointsMaterial` and the `Points` class. `Points` is like `LineSegments` above in that it takes
 a `BufferGeometry` but draws points at each vertex instead of lines.
 To use it you also need to pass it a `PointsMaterial` which
 take a [`size`](PointsMaterial.size) for how large to make the points.
